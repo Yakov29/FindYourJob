@@ -305,7 +305,7 @@ color: #FFFFFF;
 }
 
 .job-button-item{
-    ont-family: 'Fira Sans';
+    font-family: 'Fira Sans';
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
@@ -405,6 +405,7 @@ color: #111238;
 
 .vacansy-section{
     background-color: #FFFFFF;
+    padding-bottom: 80px;
 }
 
 .vacansy-section .container{

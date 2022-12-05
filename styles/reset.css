@@ -39,3 +39,34 @@ h1,h2,h3,h4,h5,h6{
     margin: 0;
 }
 
+.more-button{
+    width: 133px;
+height: 19px;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 30px;
+gap: 10px;
+margin-left: 470px;
+border: #1A75E8;
+width: 193px;
+height: 49px;
+left: calc(50% - 193px/2 - 0.5px);
+top: calc(50% - 49px/2 + 600.5px);
+
+/* Buttons/Primary */
+
+background: #1A75E8;
+border-radius: 5px;
+margin-top: 40px;
+color: #FFFFFF;
+}
+
