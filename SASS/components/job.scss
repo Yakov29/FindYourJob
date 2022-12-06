@@ -1,0 +1,136 @@
+.job-button{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 25px;
+gap: 10px;
+width: 113px;
+height: 39px;
+background: #1A75E8;
+border-radius: 5px;
+margin-top: 40px;
+margin-left: 46px;
+border: none;
+color: #FFFFFF;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+/* Inputs/Light */
+
+color: #FFFFFF;
+}
+
+.job-button-list{
+    display: flex;
+}
+
+.job-button-item{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+margin-left: 25px;
+margin-top: 50px;
+color: #B2B2B2;
+
+}
+
+.trbov{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+margin-top: 50px;
+color: #B2B2B2;
+margin-left: 82px;
+}
+
+.more{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+/* Buttons/Primary */
+
+color: #1A75E8;
+margin-left: 186px;
+height: 20px;
+margin-top: 50px;
+}
+
+.jobs-name{
+    margin-bottom: 40px;
+}
+
+.vacansy-section{
+    background-color: #FFFFFF;
+    padding-bottom: 80px;
+}
+
+.vacansy-section .container{
+    padding-top: 70px;
+}
+
+.jobs-name{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+/* Text/Primary */
+
+color: #111238;
+}
+.job-list{
+    display: block;
+}
+
+.jobs-item{
+    display: flex;
+}
+
+.jobs-div{
+    display: flex;
+    border: 1px solid #C5C9D5;
+border-radius: 10px;
+padding-left: 30px;
+height: 160px;
+margin-bottom: 20px;
+width: 1146px;
+padding-top: 30px;
+}
+
+h5{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+/* Text/Primary */
+
+color: #111238;
+}
+
+.job-div-list{
+    margin-top: 30px;
+margin-left: 20px;
+}

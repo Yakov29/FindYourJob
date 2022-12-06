@@ -1,0 +1,108 @@
+header .container{
+    margin-left: 147px;
+}
+
+.container{
+    width: 1200px;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+
+span{
+    color: #1A75E8;
+}
+header .container{
+    display: flex;
+    padding-top: 16px;
+}
+
+.logo__header{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #0F1138;
+}
+
+.svg__header{
+    fill: #1A75E8;
+    margin-left: 0;
+}
+
+.list__header{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+margin-left: 261.53px;
+}
+
+.list__header-item{
+    margin-left: 20px;
+}
+
+.list__header-link{
+     font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #111238;
+transition: 250ms cubic-bezier(0.4, 0, 0.2, 1), 400ms cubic-bezier(0.4, 0, 0.2, 1)
+}
+
+.list__header-link:hover{
+    color: #1A75E8;
+}
+
+.list__header-item:first-child{
+    margin-left: 0;
+}
+.log-list__header{
+    margin-left: 261px;
+    display: flex;
+    width: 241px;
+    
+}
+
+.login{
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+top: 15px;
+/* Text/Primary */
+height: 10px;
+
+color: #111238;
+}
+
+.log-item__header{
+    margin-left: 40px;
+}
+
+.log-item__header:first-child{
+    margin-left: 0;
+}
+
+.log-item__header:last-child{
+    margin-top: 0;
+}
+
+.login-button{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 30px;
+gap: 10px;
+color: aliceblue;
+background: #1A75E8;
+border-radius: 5px;
+border: 1px solid #1A75E8;
+}

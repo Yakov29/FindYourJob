@@ -1,0 +1,136 @@
+.hero-section{
+    margin-top: 90px;
+   
+    display: flex;
+}
+
+.title-div{
+ 
+    width: 460px;
+    padding-top: 80px;
+    display: block;
+}
+
+h1{
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 53px;
+
+/* Text/Primary */
+
+color: #111238;
+
+
+}
+
+.big-svg{
+    margin-left: 100px;
+}
+
+.title-input{
+    position: relative;
+    width: 447px;
+height: 70px;
+background: #FFFFFF;
+border: 1px solid rgba(209, 209, 209, 0.1);
+box-shadow: 0px 4px 25px rgba(15, 17, 56, 0.1);
+border-radius: 5px;
+padding-left: 25px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+margin-top: 30px;
+/* Inputs/Grey */
+
+color: #B2B2B2;
+}
+
+.title-discription{
+    margin-top: 15px;
+}
+
+.title-button{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 30px;
+gap: 10px;
+background: #1A75E8;
+border-radius: 5px;
+border: none;
+fill: #FFFFFF;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+position: absolute;
+top: 460px;
+left: 373px;
+}
+
+.priclad-list{
+    display: flex;
+    margin-top: 30px;
+}
+
+.button-list-item{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #B2B2B2;
+
+
+}
+.list-button{
+    box-sizing: border-box;
+
+/* Auto layout */
+
+
+gap: 10px;
+
+width: 83px;
+height: 27px;
+
+border: 1px solid #B2B2B2;
+border-radius: 5px;
+
+/* Inside auto layout */
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+/* Inputs/Grey */
+
+color: #B2B2B2;
+
+
+/* Inside auto layout */
+
+
+}
